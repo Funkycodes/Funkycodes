@@ -10,7 +10,7 @@ body {
     font-family: 'Droid Sans Mono';
     font-weight: lighter;
     font-size: 14px;
-    background: hsla(0, 0%, 0%, 0.7);
+    background: #151515;//#333
     color: hsla(0, 0%, 100%, 0.7);
     line-height: 1.7;
     max-width: 100vw;
